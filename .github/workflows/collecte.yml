@@ -1,0 +1,29 @@
+name: Collecte veille stages
+
+on:
+  schedule:
+    - cron: "30 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: BPCE (Natixis, BRED, Caisse d'Epargne IDF...)
+        run: mkdir -p results && python collectors/bpce.py
+      - name: Enregistrer les résultats
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add results
+          git diff --cached --quiet || git commit -m "Collecte du $(date -u +%F)"
+          git push
