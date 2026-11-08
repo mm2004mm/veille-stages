@@ -1,0 +1,30 @@
+{
+ "collecte": "2026-11-08T17:22:33+00:00",
+ "sources": {
+  "bpce": {
+   "ok": true,
+   "nb": 131,
+   "note": ""
+  },
+  "bnp": {
+   "ok": false,
+   "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://group.bnpparibas/emploi-carriere/toutes-offres-emploi/stage/france?q=juillet+2027&page=1",
+   "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/veille-stages/veille-stages/collectors/run_all.py\", line 11, in <module>\n    n = mod.run()\n        ^^^^^^^^^\n  File \"/home/runner/work/veille-stages/veille-stages/collectors/bnp.py\", line 15, in run\n    t = get(f\"{BASE}/emploi-carriere/toutes-offres-emploi/stage/france\", params={\"q\": q, \"page\": page}).text\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/veille-stages/veille-stages/collectors/common.py\", line 39, in get\n    r.raise_for_status()\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py\", line 1024, in raise_for_status\n    raise HTTPError(http_error_msg, response=self)\nrequests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://group.bnpparibas/emploi-carriere/toutes-offres-emploi/stage/france?q=juillet+2027&page=1\n"
+  },
+  "cacib": {
+   "ok": true,
+   "nb": 24,
+   "note": ""
+  },
+  "wttj": {
+   "ok": true,
+   "nb": 67,
+   "note": ""
+  },
+  "pages": {
+   "ok": true,
+   "nb": 17,
+   "note": ""
+  }
+ }
+}
