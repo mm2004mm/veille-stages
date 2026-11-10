@@ -1,195 +1,8 @@
 {
- "collecte": "2026-11-09T16:33:41+00:00",
- "nb": 19,
+ "collecte": "2026-11-10T16:21:23+00:00",
+ "nb": 20,
  "note": "",
  "offres": [
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Business analyst H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-business-analyst-h-f_116212.aspx",
-   "lieu": "Saint-Quentin-en-Yvelines",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116212 Date de mise à jour 07/11/2026 Description du poste Type de métier Types de métier",
-    "al et Data Intitulé du poste Business analyst H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 26/10/2026 Missions Vous recherchez un stage en Intelligence Artificielle, Data & Gestion de Projet et vous a"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Business Manager - Global Market Structuration H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-business-manager-global-market-structuration-h-f_116549.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "02/11/2026",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116549 Date de mise à jour 07/11/2026 Description du poste Type de métier Types de métier",
-    "ste Business Manager - Global Market Structuration H/F Type de contrat Stage Durée (en mois) 6 Date prévue de prise de fonction 02/11/2026 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage et avez un",
-    "Des postes sont à pourvoir fréquemment pour cette offre, merci de renseigner vos dates de disponibilités sur votre CV lorsque vous postu"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Analyste - Intelligence Artificielle H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-intelligence-artificielle-h-f_111833.aspx",
-   "lieu": "Saint-Quentin en Yvelines",
-   "contrat": "Stage",
-   "debut": "31/08/2026",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-111833 Date de mise à jour 04/11/2026 Description du poste Type de métier Types de métier",
-    "du poste Analyste - Intelligence Artificielle H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 31/08/2026 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en intelli"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Assistant Business Manager Primary Credit H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-assistant-business-manager-primary-credit-h-f_116592.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "04/01/2027",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116592 Date de mise à jour 09/11/2026 Description du poste Type de métier Types de métier",
-    "du poste Assistant Business Manager Primary Credit H/F Type de contrat Stage Durée (en mois) 6 Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en finance"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Assistant Commercial (Trade Finance) H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-assistant-commercial-trade-finance-h-f_116791.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "14/12/2026",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116791 Date de mise à jour 02/11/2026 Description du poste Type de métier Types de métier",
-    "du poste Assistant Commercial (Trade Finance) H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 14/12/2026 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en Banque"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Sectors & Advisory Analyst H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-sectors-advisory-analyst-h-f_116735.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "04/01/2027",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116735 Date de mise à jour 01/11/2026 Description du poste Type de métier Types de métier",
-    "Intitulé du poste Sectors & Advisory Analyst H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en banque"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Business Analyst en Intelligence Artificielle H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-business-analyst-en-intelligence-artificielle-h-f_117094.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "01/12/2026",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117094 Date de mise à jour 03/11/2026 Description du poste Type de métier Types de métier",
-    "Business Analyst en Intelligence Artificielle H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 01/12/2026 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en Intelli"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Analyste M&A Large Cap - Stage H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-m-a-large-cap-stage-h-f_117025.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117025 Date de mise à jour 02/11/2026 Description du poste Type de métier Types de métier",
-    "itulé du poste Analyste M&A Large Cap - Stage H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 05/07/2027 Missions Rejoignez le département M&A Large Cap de Crédit Agricole CIB pour un stage de 6 mois à p",
-    "artir de Juillet 2027 ! Crédit Agricole CIB recherche des candidats très motivés souhaitant participer activement à l'originat",
-    "fusions-acquisitions sell-side et buy-side pour de grandes entreprises lors d'un stage de 6 mois à partir de Juillet 2027",
-    "Candidature La période de candidature s'ouvre le 2 novembre pour un mois",
-    "Pour postuler, veuillez envoyer votre candidature en anglais avant le 2 décembre avec : Votre CV Une lettre de motivation détaillée expliquant pourquoi vous souhaitez rejoindre l'équipe M&A"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Business Analyst H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-business-analyst-h-f_116157.aspx",
-   "lieu": "Saint-Quentin-en-Yvelines",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116157 Date de mise à jour 06/11/2026 Description du poste Type de métier Types de métier",
-    "al et Data Intitulé du poste Business Analyst H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 19/10/2026 Missions Vous recherchez un stage en Business Analysis / Maîtrise d’Ouvrage et vous avez un intérê"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Assitant Chef de Produit Comptes et Investissements H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-assitant-chef-de-produit-comptes-et-investissements-h-f_116474.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "04/01/2027",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116474 Date de mise à jour 04/11/2026 Description du poste Type de métier Types de métier",
-    "nt Chef de Produit Comptes et Investissements H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en tant qu"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Analyste Décarbonation H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-decarbonation-h-f_116826.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116826 Date de mise à jour 03/11/2026 Description du poste Type de métier Types de métier",
-    "ents Intitulé du poste Analyste Décarbonation H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 01/03/2027 Missions Vous cherchez un stage à impact au sein du secteur bancaire ? Alors ce stage est fait pou"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Chargé(e) de surveillance des marchés financiers H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-charge-e-de-surveillance-des-marches-financiers-h-f_109716.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-109716 Date de mise à jour 07/11/2026 Description du poste Type de métier Types de métier",
-    "rgé(e) de surveillance des marchés financiers H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 04/01/2027 Missions CPL a pour mission de contribuer au respect de la conformité des activités et des opérati"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Assistant analyste stratégie crédit H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-assistant-analyste-strategie-credit-h-f_117210.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "04/01/2027",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117210 Date de mise à jour 05/11/2026 Description du poste Type de métier Types de métier",
-    "itulé du poste Assistant analyste stratégie crédit H/F Type de contrat Stage Durée (en mois) 6 Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en Finance"
-   ],
-   "publie": ""
-  },
   {
    "source": "Site carrières (CA CIB)",
    "entreprise": "Crédit Agricole CIB",
@@ -207,42 +20,28 @@
   {
    "source": "Site carrières (CA CIB)",
    "entreprise": "Crédit Agricole CIB",
-   "titre": "Assistant Fixed Income Structurer H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-assistant-fixed-income-structurer-h-f_117008.aspx",
+   "titre": "Analyste Trading Équité Structurée H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-trading-equite-structuree-h-f_117360.aspx",
    "lieu": "Montrouge",
    "contrat": "Stage",
-   "debut": "",
+   "debut": "11/01/2027",
    "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117008 Date de mise à jour 05/11/2026 Description du poste Type de métier Types de métier",
-    "ntitulé du poste Assistant Fixed Income Structurer H/F Type de contrat Stage Durée (en mois) 6 Date prévue de prise de fonction 09/11/2026 Missions Vous recherchez un stage avec des missions transverses et vous avez un intérêt pour la fi"
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117360 Date de mise à jour 10/11/2026 Description du poste Type de métier Types de métier",
+    "é du poste Analyste Trading Équité Structurée H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 11/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en banque"
    ],
    "publie": ""
   },
   {
    "source": "Site carrières (CA CIB)",
    "entreprise": "Crédit Agricole CIB",
-   "titre": "Analyste ECA & Multilateral Financing Solutions H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-eca-multilateral-financing-solutions-h-f_116461.aspx",
+   "titre": "Sectors & Advisory Analyst H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-sectors-advisory-analyst-h-f_116735.aspx",
    "lieu": "Montrouge",
    "contrat": "Stage",
    "debut": "04/01/2027",
    "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116461 Date de mise à jour 04/11/2026 Description du poste Type de métier Types de métier",
-    "alyste ECA & Multilateral Financing Solutions H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en Front O"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (CA CIB)",
-   "entreprise": "Crédit Agricole CIB",
-   "titre": "Analyste Onboarding - Front office H/F",
-   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-onboarding-front-office-h-f_117009.aspx",
-   "lieu": "Montrouge",
-   "contrat": "Stage",
-   "debut": "04/01/2027",
-   "mentions_date": [
-    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117009 Date de mise à jour 05/11/2026 Description du poste Type de métier Types de métier",
-    "titulé du poste Analyste Onboarding - Front office H/F Type de contrat Stage Durée (en mois) 6 Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en Finance"
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116735 Date de mise à jour 01/11/2026 Description du poste Type de métier Types de métier",
+    "Intitulé du poste Sectors & Advisory Analyst H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en banque"
    ],
    "publie": ""
   },
@@ -267,6 +66,123 @@
   {
    "source": "Site carrières (CA CIB)",
    "entreprise": "Crédit Agricole CIB",
+   "titre": "Chargé(e) de surveillance des marchés financiers H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-charge-e-de-surveillance-des-marches-financiers-h-f_109716.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-109716 Date de mise à jour 07/11/2026 Description du poste Type de métier Types de métier",
+    "rgé(e) de surveillance des marchés financiers H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 04/01/2027 Missions CPL a pour mission de contribuer au respect de la conformité des activités et des opérati"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Analyste Onboarding - Front office H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-onboarding-front-office-h-f_117009.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "04/01/2027",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117009 Date de mise à jour 10/11/2026 Description du poste Type de métier Types de métier",
+    "titulé du poste Analyste Onboarding - Front office H/F Type de contrat Stage Durée (en mois) 6 Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en Finance"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Business Manager - Global Market Structuration H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-business-manager-global-market-structuration-h-f_116549.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "02/11/2026",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116549 Date de mise à jour 07/11/2026 Description du poste Type de métier Types de métier",
+    "ste Business Manager - Global Market Structuration H/F Type de contrat Stage Durée (en mois) 6 Date prévue de prise de fonction 02/11/2026 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage et avez un",
+    "Des postes sont à pourvoir fréquemment pour cette offre, merci de renseigner vos dates de disponibilités sur votre CV lorsque vous postu"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Business analyst H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-business-analyst-h-f_116212.aspx",
+   "lieu": "Saint-Quentin-en-Yvelines",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116212 Date de mise à jour 07/11/2026 Description du poste Type de métier Types de métier",
+    "al et Data Intitulé du poste Business analyst H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 26/10/2026 Missions Vous recherchez un stage en Intelligence Artificielle, Data & Gestion de Projet et vous a"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Assistant Commercial (Trade Finance) H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-assistant-commercial-trade-finance-h-f_116791.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "14/12/2026",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116791 Date de mise à jour 02/11/2026 Description du poste Type de métier Types de métier",
+    "du poste Assistant Commercial (Trade Finance) H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 14/12/2026 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en Banque"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Analyste M&A Large Cap - Stage H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-m-a-large-cap-stage-h-f_117025.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117025 Date de mise à jour 02/11/2026 Description du poste Type de métier Types de métier",
+    "itulé du poste Analyste M&A Large Cap - Stage H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 05/07/2027 Missions Rejoignez le département M&A Large Cap de Crédit Agricole CIB pour un stage de 6 mois à p",
+    "artir de Juillet 2027 ! Crédit Agricole CIB recherche des candidats très motivés souhaitant participer activement à l'originat",
+    "fusions-acquisitions sell-side et buy-side pour de grandes entreprises lors d'un stage de 6 mois à partir de Juillet 2027",
+    "Candidature La période de candidature s'ouvre le 2 novembre pour un mois",
+    "Pour postuler, veuillez envoyer votre candidature en anglais avant le 2 décembre avec : Votre CV Une lettre de motivation détaillée expliquant pourquoi vous souhaitez rejoindre l'équipe M&A"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Analyste - Intelligence Artificielle H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-intelligence-artificielle-h-f_111833.aspx",
+   "lieu": "Saint-Quentin en Yvelines",
+   "contrat": "Stage",
+   "debut": "31/08/2026",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-111833 Date de mise à jour 04/11/2026 Description du poste Type de métier Types de métier",
+    "du poste Analyste - Intelligence Artificielle H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 31/08/2026 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en intelli"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Analyste ECA & Multilateral Financing Solutions H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-eca-multilateral-financing-solutions-h-f_116461.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "04/01/2027",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116461 Date de mise à jour 04/11/2026 Description du poste Type de métier Types de métier",
+    "alyste ECA & Multilateral Financing Solutions H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en Front O"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
    "titre": "Analyste Portefeuille Crédit Export H/F",
    "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-portefeuille-credit-export-h-f_117302.aspx",
    "lieu": "Montrouge",
@@ -275,6 +191,104 @@
    "mentions_date": [
     "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117302 Date de mise à jour 09/11/2026 Description du poste Type de métier Types de métier",
     "du poste Analyste Portefeuille Crédit Export H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en Crédit"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Assitant Chef de Produit Comptes et Investissements H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-assitant-chef-de-produit-comptes-et-investissements-h-f_116474.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "04/01/2027",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116474 Date de mise à jour 04/11/2026 Description du poste Type de métier Types de métier",
+    "nt Chef de Produit Comptes et Investissements H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en tant qu"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Assistant Business Manager Primary Credit H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-assistant-business-manager-primary-credit-h-f_116592.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "04/01/2027",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116592 Date de mise à jour 09/11/2026 Description du poste Type de métier Types de métier",
+    "du poste Assistant Business Manager Primary Credit H/F Type de contrat Stage Durée (en mois) 6 Date prévue de prise de fonction 04/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en finance"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Analyste Risques Marché Equité H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-risques-marche-equite-h-f_117350.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "21/12/2026",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117350 Date de mise à jour 10/11/2026 Description du poste Type de métier Types de métier",
+    "s Intitulé du poste Analyste Risques Marché Equité H/F Type de contrat Stage Durée (en mois) 6 Date prévue de prise de fonction 21/12/2026 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage d'analyse"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Analyste Décarbonation H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-analyste-decarbonation-h-f_116826.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-116826 Date de mise à jour 03/11/2026 Description du poste Type de métier Types de métier",
+    "ents Intitulé du poste Analyste Décarbonation H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 01/03/2027 Missions Vous cherchez un stage à impact au sein du secteur bancaire ? Alors ce stage est fait pou"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Assistant Market Risk Manager H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-assistant-market-risk-manager-h-f_117351.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "18/01/2027",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117351 Date de mise à jour 10/11/2026 Description du poste Type de métier Types de métier",
+    "titulé du poste Assistant Market Risk Manager H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 18/01/2027 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en analyse"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Assistant Fixed Income Structurer H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-assistant-fixed-income-structurer-h-f_117008.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117008 Date de mise à jour 10/11/2026 Description du poste Type de métier Types de métier",
+    "ntitulé du poste Assistant Fixed Income Structurer H/F Type de contrat Stage Durée (en mois) 6 Date prévue de prise de fonction 09/11/2026 Missions Vous recherchez un stage avec des missions transverses et vous avez un intérêt pour la fi"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (CA CIB)",
+   "entreprise": "Crédit Agricole CIB",
+   "titre": "Business Analyst en Intelligence Artificielle H/F",
+   "url": "https://jobs.ca-cib.com/offre-de-emploi/emploi-business-analyst-en-intelligence-artificielle-h-f_117094.aspx",
+   "lieu": "Montrouge",
+   "contrat": "Stage",
+   "debut": "01/12/2026",
+   "mentions_date": [
+    "Vous souhaitez prendre part à notre mission ? Rejoignez nos équipes ! *The Banker, Juillet 2025 Référence 2026-117094 Date de mise à jour 03/11/2026 Description du poste Type de métier Types de métier",
+    "Business Analyst en Intelligence Artificielle H/F Type de contrat Stage Durée (en mois) 6 mois Date prévue de prise de fonction 01/12/2026 Poste avec management Non Cadre / Non Cadre Non cadre Missions Vous recherchez un stage en Intelli"
    ],
    "publie": ""
   }
