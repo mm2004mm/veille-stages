@@ -1,7 +1,7 @@
 {
- "collecte": "2026-11-09T16:34:02+00:00",
- "nb": 15,
- "note": "inflexion-points-technology: 429 Client Error: Too Many Requests for url: https://api.firecrawl.dev/v2/scrape; naxicap: 429 Client Error: Too Many Requests for url: https://api.firecrawl.dev/v2/scrape; raise: 429 Client Error: Too Many Requests for url: https://api.firecrawl.dev/v2/scrape; tikehau-capital: 429 Client Error: Too Many Requests for url: https://api.firecrawl.dev/v2/scrape; ardian: 429 Client Error: Too Many Requests for url: https://api.firecrawl.dev/v2/scrape; natixis: 429 Client Error: Too Many Requests for url: https://api.firecrawl.dev/v2/scrape; la-banque-postale: 429 Client Error: Too Many Requests for url: https://api.firecrawl.dev/v2/scrape",
+ "collecte": "2026-11-11T16:31:26+00:00",
+ "nb": 83,
+ "note": "",
  "offres": [
   {
    "source": "Welcome to the Jungle",
@@ -57,16 +57,16 @@
   },
   {
    "source": "Welcome to the Jungle",
-   "entreprise": "Alantra",
+   "entreprise": "alantra",
    "titre": "Stage Debt Advisory - Session Janvier 2027",
    "url": "https://www.welcometothejungle.com/fr/companies/alantra/jobs/stage-debt-advisory-session-mars-2025_paris",
-   "lieu": "Paris, 75008, Paris, FR",
-   "contrat": "INTERN",
+   "lieu": "",
+   "contrat": "",
    "debut": "",
    "mentions_date": [
     "Stage Debt Advisory - Session Janvier 2027"
    ],
-   "publie": "2026-10-19T13:13:39Z"
+   "publie": ""
   },
   {
    "source": "Welcome to the Jungle",
@@ -104,19 +104,6 @@
    "debut": "",
    "mentions_date": [
     "E AFFAIRES M&A JANVIER 2027, STAGE"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Welcome to the Jungle",
-   "entreprise": "avolta-partners",
-   "titre": "Stage M&A - Levée de fonds Janvier 2027",
-   "url": "https://www.welcometothejungle.com/fr/companies/avolta-partners/jobs/stage-m-a-levee-de-fonds-janvier-2027_paris",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [
-    "Stage M&A - Levée de fonds Janvier 2027"
    ],
    "publie": ""
   },
@@ -182,6 +169,805 @@
    "entreprise": "sefico-nexia",
    "titre": "Stage Transaction services F/H",
    "url": "https://www.welcometothejungle.com/fr/companies/nexia-sa/jobs/stage-transaction-services-f-h_paris_NS_mz7NKWN",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "inflexion-points-technology",
+   "titre": "Sell-side Tech M&A Internship - Start in Jan/Mar 2027",
+   "url": "https://www.welcometothejungle.com/fr/companies/inflexion-points-technology/jobs/sell-side-tech-m-a-internship-start-in-jan-mar-2027_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "naxicap",
+   "titre": "Stagiaire Analyste en Private Equity à Toulouse - Mars 2027 (6 mois)",
+   "url": "https://www.welcometothejungle.com/fr/companies/naxicap/jobs/stagiaire-analyste-en-private-equity_toulouse_NP_rwe9pRG",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Stagiaire Analyste en Private Equity à Toulouse - Mars 2027 (6 mois)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "naxicap",
+   "titre": "Stage Analyste Investor Relations Private Equity - Paris – Février 2027 (6 mois)",
+   "url": "https://www.welcometothejungle.com/fr/companies/naxicap/jobs/stage-analyste-investor-relations-private-equity-paris-fevrier-2027-6-mois_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Stage Analyste Investor Relations Private Equity - Paris – Février 2027 (6 mois)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "naxicap",
+   "titre": "Stagiaire Analyste en Private Equity Midcap à Lyon - Mars 2027 (6 mois)",
+   "url": "https://www.welcometothejungle.com/fr/companies/naxicap/jobs/stagiaire-analyste-en-private-equity-midcap-a-lyon-janvier-mars-2027-6-mois_lyon",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Stagiaire Analyste en Private Equity Midcap à Lyon - Mars 2027 (6 mois)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "naxicap",
+   "titre": "Stagiaire Analyste en Private Equity à Nantes - Janvier 2027 (6 mois)",
+   "url": "https://www.welcometothejungle.com/fr/companies/naxicap/jobs/stagiaire-analyste-en-private-equity-a-nantes-janvier-2027-6-mois_nantes",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Stagiaire Analyste en Private Equity à Nantes - Janvier 2027 (6 mois)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "raise",
+   "titre": "Stage Analyste - Private Equity",
+   "url": "https://www.welcometothejungle.com/fr/companies/raise/jobs/analyste_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "raise",
+   "titre": "Stage Private Equity Analyste - RAISE Impact - Mars 2027",
+   "url": "https://www.welcometothejungle.com/fr/companies/raise/jobs/stage-analyste-raise-impact_paris_RAISE_JpDXKdg",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Stage Private Equity Analyste - RAISE Impact - Mars 2027"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "raise",
+   "titre": "VC Analyst Intern - Raise Ventures",
+   "url": "https://www.welcometothejungle.com/fr/companies/raise/jobs/vc-analyst-intern-raise-ventures_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "tikehau-capital",
+   "titre": "Internship - Fund Operations (H/F) - Luxembourg - November 2026",
+   "url": "https://www.welcometothejungle.com/fr/companies/tikehau-capital/jobs/internship-fund-operations-h-f-luxembourg-november-2026_luxembourg",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Internship - Fund Operations (H/F) - Luxembourg - November 2026"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "tikehau-capital",
+   "titre": "Internship- Compliance officer (H/F) - January 2027",
+   "url": "https://www.welcometothejungle.com/fr/companies/tikehau-capital/jobs/internship-compliance-officer-h-f-january-2027_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Internship- Compliance officer (H/F) - January 2027"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "tikehau-capital",
+   "titre": "Investment Specialist (Analyst) - Private Debt - Paris",
+   "url": "https://www.welcometothejungle.com/fr/companies/tikehau-capital/jobs/investment-specialist-analyst-private-debt-paris_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Private Equity Infrastructure Stage - Juillet ou Septembre 2027 \\| Paris (H/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/private-equity-infrastructure-stage-juillet-ou-septembre-2027-paris-h-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Private Equity Infrastructure Stage - Juillet ou Septembre 2027 \\| Paris (H/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Fund Finance Private Credit Stage - Janvier 2027 I Paris (M/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/fund-finance-private-credit-stage-janvier-2027-i-paris-m-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Fund Finance Private Credit Stage - Janvier 2027 I Paris (M/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Sustainability Non Controlling Stage - Janvier 2027 I Paris (H/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/sustainability-non-controlling-stage-janvier-2027-i-paris-h-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Sustainability Non Controlling Stage - Janvier 2027 I Paris (H/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Foundation Engagement & Communication Stage - Janvier 2027 I Paris (M/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/foudation-engagement-communication-stage-janvier-2027-i-paris-m-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Foundation Engagement & Communication Stage - Janvier 2027 I Paris (M/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Fund Finance Expansion Stage - Janvier 2027 I Paris (M/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/fund-finance-expansion-stage-janvier-2027-i-paris-m-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Fund Finance Expansion Stage - Janvier 2027 I Paris (M/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "HR Learning Stage - Janvier 2027 I Paris (M/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/learning-intern-septembre-2026-ou-janvier-2027-i-paris-m-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "HR Learning Stage - Janvier 2027 I Paris (M/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Investor Relations Syndication Stage - Mars 2027 \\| Paris (M/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/investor-relations-syndication-stage-mars-2027-paris-m-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Investor Relations Syndication Stage - Mars 2027 \\| Paris (M/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Fund Finance Cross Functional Stage - Mars 2027 I Paris (H/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/fund-finance-cross-functional-stage-mars-2027-i-paris-h-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Fund Finance Cross Functional Stage - Mars 2027 I Paris (H/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Sustainability Real Assets Stage - Mars 2027 I Paris (H/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/sustainability-real-assets-stage-janvier-2027-i-paris-h-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Sustainability Real Assets Stage - Mars 2027 I Paris (H/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Data Scientist Stage - Mars 2027 \\| Paris (H/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/data-sciencist-stage-mars-2027-paris-h-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Data Scientist Stage - Mars 2027 \\| Paris (H/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Group Finance Treasury Stage - Mars 2027 I Paris (H/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/group-finance-treasury-stage-mars-2027-i-paris-h-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Group Finance Treasury Stage - Mars 2027 I Paris (H/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Affaires Publiques et Gouvernementales Stage - Mars 2027 \\| Paris (H/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/affaires-publiques-et-gouvernementales-stage-mars-2027-paris-h-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Affaires Publiques et Gouvernementales Stage - Mars 2027 \\| Paris (H/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "ardian",
+   "titre": "Sustainability Stage - Mars 2027 I Paris (M/F)",
+   "url": "https://www.welcometothejungle.com/fr/companies/ardian/jobs/sustainability-direct-private-equity-stage-mars-2027-i-paris-m-f_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Sustainability Stage - Mars 2027 I Paris (M/F)"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Middle Office OST/Proxy Voting F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-middle-office-ost-proxy-voting-f-h_paris_NATIX_Qx0a43q",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Compliance Officer (Conformité Centrale) F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-compliance-officer-conformite-centrale-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Product Owner LCNC Data F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-product-owner-lcnc-data-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Analyste Risque de Crédid Infra Aviation F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-analyste-risque-de-credid-infra-aviation-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Analyste Quantitatif - Stress Tests F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-analyste-quantitatif-stress-tests-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Structuration SECM - F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-structuration-secm-f-h_paris_NATIX_rb0RNRr",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Assistant Analyste Covered Bonds F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-assistant-analyste-covered-bonds-f-h_paris_NATIX_Gd3MqqX",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage-6mois-Gestionnaire Structured Commodities Agency-F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6mois-gestionnaire-structured-commodities-agency-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Investment Specialist F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-investment-specialist-f-h_paris-13e-arrondissement",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Analyste Investissement F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-analyste-investissement-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Investor Relations, Data & AI F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-investor-relations-data-ai-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Assistant Commercial F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-assistant-commercial-f-h_paris_NATIX_JG0qLkg",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Pilotage et Analyse de donnés F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-pilotage-et-analyse-de-donnes-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Data Analyst - F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-data-analyst-f-h_charenton-le-pont_NATIX_qyWPkdg",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Contrôleur de gestion - F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-controleur-de-gestion-f-h_charenton-le-pont",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Assistant Operations Private Assets F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-assistant-operations-private-assets-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Développeur Python Finance Valuation Group F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-developpeur-python-finance-valuation-group-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage-6 mois-Quants XVA Développement outils quantitatifs F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-quants-xva-developpement-outils-quantitatifs-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Ingénieur Automatisation Applicative F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-ingenieur-automatisation-applicative-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Juriste financier F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-juriste-financier-f-h_paris_NATIX_Kekdmwz",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Calculation Agent Assistant - F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-calculation-agent-assistant-f-h_charenton-le-pont",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Business Manager - F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-business-manager-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Data Scientist - F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-data-scientist-f-h_paris_NATIX_k39MJ2W",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Rates Strategist Assistant F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-rates-strategist-assistant-f-h_paris_NATIX_qK3o3pG",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Analyste Quantitatif - Multi Actifs Privés F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-analyste-quantitatif-multi-actifs-prives-f-h_paris_NATIX_NpqNg61",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Développement durable F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-developpement-durable-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Chef.fe de projet Conformité Cyber et Résilience - GRADIGNAN - F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-chef-fe-de-projet-conformite-cyber-et-resilience-gradignan-f-h_gradignan",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Chargé d'appui au développement commercial F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-charge-d-appui-au-developpement-commercial-f-h_nantes",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Assistant Commercial - Saint Denis de La Réunion F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-assistant-commercial-saint-denis-de-la-reunion-f-h_saint-denis",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Analyste crédit - F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-analyste-credit-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Analyste Financements Structurés Immobiliers F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-analyste-financements-structures-immobiliers-f-h_paris_LBP_7ZwNokk",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "STAGE - Pilotage Analytique de la MNI F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-pilotage-analytique-de-la-mni-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Analyste Résolution F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/analyste-resolution-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "STAGE - Gérant ALM Tarification F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-gerant-alm-tarification-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Analyste Coverage Large Corporate F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-analyste-coverage-large-corporate-f-h_paris_LBP_GK22RMy",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Pricing Analyst F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-pricing-analyst-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage Analyste risques de marché",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-analyste-risques-de-marche_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "STAGE - Chargé de communication interne F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-charge-de-communication-interne-f-h_paris_LBP_KQqVow3",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Gestionnaire Back-Office Trésorerie F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-gestionnaire-back-office-tresorerie-f-h_paris_LBP_3lm7mqj",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Assistant DCM Origination/Syndication F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-assistant-dcm-origination-syndication-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Analyste Risque de Crédit Entreprise - Bordeaux - F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-analyste-risque-de-credit-entreprise-bordeaux-f-h_bordeaux",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Assistant Chargé d'Affaires Entreprises F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-assistant-charge-d-affaires-entreprises-f-h_lille",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Chargé.e de coordination sécurité financière - F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-charge-e-de-coordination-securite-financiere-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Analyste Risque de Crédit Immobilier F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/analyste-risque-de-credit-immobilier-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "la-banque-postale",
+   "titre": "Analyste Quantitatif ALM F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/analyste-quantitatif-alm-f-h_paris",
    "lieu": "",
    "contrat": "",
    "debut": "",
