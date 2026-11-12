@@ -1,9 +1,9 @@
 {
- "collecte": "2026-11-11T16:23:11+00:00",
+ "collecte": "2026-11-12T16:27:15+00:00",
  "sources": {
   "bpce": {
    "ok": true,
-   "nb": 151,
+   "nb": 157,
    "note": ""
   },
   "bnp": {
@@ -13,13 +13,13 @@
   },
   "cacib": {
    "ok": true,
-   "nb": 20,
+   "nb": 19,
    "note": ""
   },
   "wttj": {
    "ok": true,
-   "nb": 83,
-   "note": ""
+   "nb": null,
+   "note": "pas prévu aujourd'hui"
   },
   "pages": {
    "ok": true,
