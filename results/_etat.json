@@ -1,5 +1,5 @@
 {
- "collecte": "2026-11-20T16:20:21+00:00",
+ "collecte": "2026-11-21T16:09:45+00:00",
  "sources": {
   "bpce": {
    "ok": true,
@@ -18,8 +18,8 @@
   },
   "wttj": {
    "ok": true,
-   "nb": 66,
-   "note": ""
+   "nb": null,
+   "note": "pas prévu aujourd'hui"
   },
   "pages": {
    "ok": true,
