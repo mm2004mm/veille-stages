@@ -1,8 +1,85 @@
 {
- "collecte": "2026-11-16T17:00:53+00:00",
+ "collecte": "2026-11-23T16:36:01+00:00",
  "nb": 19,
  "note": "",
  "offres": [
+  {
+   "source": "Page carrières",
+   "entreprise": "CIC (stages)",
+   "titre": "Stage ? Développeur IT / Front-Office (F/H)",
+   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=118266",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Page carrières",
+   "entreprise": "CIC (stages)",
+   "titre": "Chargée/Chargé de communication (F/H) - Stage - Service Communication Internationale - Luxembourg",
+   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=118076",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Page carrières",
+   "entreprise": "CIC (stages)",
+   "titre": "Chargée/Chargé marketing (F/H) - Stage - Marketing Produits Financiers et Gestion d'Actifs (H/F)",
+   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=118128",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Page carrières",
+   "entreprise": "CIC (stages)",
+   "titre": "Juriste (F/H) - Stage - Juridique Affaires Générales (H/F)",
+   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=118130",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Page carrières",
+   "entreprise": "CIC (stages)",
+   "titre": "STAGE - Chargé/Chargée de l'Hospitality et de l'Accueil d'Événements (F/H)",
+   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=118185",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Page carrières",
+   "entreprise": "CIC (stages)",
+   "titre": "Stage Analyse Asset Investment Value Add Management Immobilier (F/H)",
+   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=118090",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Page carrières",
+   "entreprise": "CIC (stages)",
+   "titre": "Stagiaire Juridique - Services Contrats Entreprises (F/H)",
+   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=118126",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
   {
    "source": "Page carrières",
    "entreprise": "CIC (stages)",
@@ -30,17 +107,6 @@
    "entreprise": "CIC (stages)",
    "titre": "STAGE - Assistant(e) Chargé(e) de Marketing (H/F)",
    "url": "https://recrutement.cic.fr/fr/offre.html?annonce=110058",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Page carrières",
-   "entreprise": "CIC (stages)",
-   "titre": "Stagiaire école (F/H) - Credit Desk Analyst",
-   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=116253",
    "lieu": "",
    "contrat": "",
    "debut": "",
@@ -83,17 +149,6 @@
   {
    "source": "Page carrières",
    "entreprise": "CIC (stages)",
-   "titre": "Stagiaire école (F/H) - STRUCTURATION FINANCE DURABLE - PARIS",
-   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=116189",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Page carrières",
-   "entreprise": "CIC (stages)",
    "titre": "STAGIAIRE ECOLE BANQUE PRIVEE (F/H)",
    "url": "https://recrutement.cic.fr/fr/offre.html?annonce=117850",
    "lieu": "",
@@ -105,63 +160,8 @@
   {
    "source": "Page carrières",
    "entreprise": "CIC (stages)",
-   "titre": "STAGIAIRE DIRECTION COMMERCIALE SECTEUR TOULOUSE ARIEGE (F/H)",
-   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=117853",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Page carrières",
-   "entreprise": "CIC (stages)",
-   "titre": "Juriste (F/H) - Stage - Service juridique produits - Pôle non coté",
-   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=113955",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Page carrières",
-   "entreprise": "CIC (stages)",
-   "titre": "Stage - Janvier - Juriste financier Produits valeurs mobilières - Pôle juridique Taux/Quant (F/H)",
-   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=116965",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Page carrières",
-   "entreprise": "CIC (stages)",
    "titre": "Stage Décembre - Juriste Relations Sociales (F/H)",
    "url": "https://recrutement.cic.fr/fr/offre.html?annonce=116931",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Page carrières",
-   "entreprise": "CIC (stages)",
-   "titre": "STAGIAIRE ECOLE EN COMMUNICATION / RSE (F/H) - BORDEAUX (33000)",
-   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=117819",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Page carrières",
-   "entreprise": "CIC (stages)",
-   "titre": "Stage - Octobre - Contrôleur des risques - Actifs Non Cotés - Dette Privée (F/H)",
-   "url": "https://recrutement.cic.fr/fr/offre.html?annonce=116815",
    "lieu": "",
    "contrat": "",
    "debut": "",
