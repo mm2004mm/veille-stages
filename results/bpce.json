@@ -1,6 +1,6 @@
 {
- "collecte": "2026-11-23T16:31:09+00:00",
- "nb": 160,
+ "collecte": "2026-11-24T16:37:20+00:00",
+ "nb": 159,
  "note": "",
  "offres": [
   {
@@ -44,6 +44,17 @@
   },
   {
    "source": "Site carrières (BPCE)",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Stage - Département Recouvrement Judiciaire H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-departement-recouvrement-judiciaire-h-f",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
    "entreprise": "Natixis Wealth Management",
    "titre": "Stage - 6 mois - Assistant Gérant Conseil F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-gerant-conseil-f-h",
@@ -81,20 +92,6 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Ostrum Asset Management",
-   "titre": "Stage - 6 mois - Investment Specialist F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-investment-specialist-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Source : Ostrum Asset Management, données consolidées à fin juin 2026",
-    "a Direction du Développement, en tant que stagiaire Investment Specialist pour un stage de 6 mois à partir de janvier 2027"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
    "titre": "Stage - 6 mois - Gestionnaire Reconciliation - F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-gestionnaire-reconciliation-f-h",
@@ -121,6 +118,19 @@
   },
   {
    "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis Wealth Management",
+   "titre": "Stage - 6 mois - Analyste Risques F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-analyste-risques-f-h",
+   "lieu": "Charenton le pont",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Risques & Marché/Risques , qui recherche un Stagiaire Analyste Risques , pour un stage de 6 mois à partir de Janvier 2027"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
    "entreprise": "BPCE Car Lease",
    "titre": "Stage - 6 mois - Chargé d'affaires Réseau (F/H) - Charenton",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-charge-daffaires-reseau-f-h-charenton",
@@ -129,6 +139,19 @@
    "debut": "",
    "mentions_date": [
     "ste et missions Rejoignez BPCE Lease en tant que Chargé d'affaires Réseau pour un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Analyste Sponsor Coverage F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-analyste-sponsor-coverage-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "ous rejoignez notre équipe, qui recherche un Analyst Sponsor Coverage France/EMEA , pour un stage de 6 mois , à pourvoir en juillet 2027"
    ],
    "publie": ""
   },
@@ -148,6 +171,33 @@
   },
   {
    "source": "Site carrières (BPCE)",
+   "entreprise": "Ostrum Asset Management",
+   "titre": "Stage - 6 mois - Investment Specialist F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-investment-specialist-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Source : Ostrum Asset Management, données consolidées à fin juin 2026",
+    "a Direction du Développement, en tant que stagiaire Investment Specialist pour un stage de 6 mois à partir de janvier 2027"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Stage - Chef de projet H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-chef-de-projet-h-f",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Modalités : Stage de 6 mois à partir de janvier 2027 Un éventail d’avantages s’offre à vous : Titre restaurant CSE attractif Titre de transport remboursé à 5"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
    "entreprise": "Caisse d'Epargne Ile de France",
    "titre": "Stage Elève avocat - stage dans le cadre du PPI H/F",
    "url": "https://recrutement.bpce.fr/job/stage-eleve-avocat-stage-dans-le-cadre-du-ppi-h-f",
@@ -161,27 +211,25 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis Wealth Management",
-   "titre": "Stage - 6 mois - Analyste Risques F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-analyste-risques-f-h",
-   "lieu": "Charenton le pont",
+   "entreprise": "BPCE VIE",
+   "titre": "Stage - 6 mois - Recherche Data Scientice F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-recherche-data-scientice-f-h",
+   "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
-   "mentions_date": [
-    "Risques & Marché/Risques , qui recherche un Stagiaire Analyste Risques , pour un stage de 6 mois à partir de Janvier 2027"
-   ],
+   "mentions_date": [],
    "publie": ""
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Analyste Sponsor Coverage F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-analyste-sponsor-coverage-f-h",
+   "entreprise": "BPCE Assurances IARD",
+   "titre": "Stage - 6 mois - Data Scientist F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-data-scientist-f-h-2",
    "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "ous rejoignez notre équipe, qui recherche un Analyst Sponsor Coverage France/EMEA , pour un stage de 6 mois , à pourvoir en juillet 2027"
+    "Poste et missions Rejoignez BPCE pour un Stage - Data Scientist (H/F) pour une durée de 6 mois à partir de Mars 2027! Les missions c’est important, l’équipe et l’environnement aussi … ! Vous intégrez l’équipe Data Innovat"
    ],
    "publie": ""
   },
@@ -200,17 +248,6 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis Wealth Management",
-   "titre": "Stage - 6 mois - Assistant Banquier Privé F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-banquier-prive-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
    "entreprise": "VEGA Investment Solutions",
    "titre": "Stage - 6 mois - Assistant Secrétariat Général F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-secretariat-general-f-h",
@@ -224,25 +261,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE VIE",
-   "titre": "Stage - 6 mois - Recherche Data Scientice F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-recherche-data-scientice-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
    "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage - Département Comptabilité Bancaire et Financière H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-departement-comptabilite-bancaire-et-financiere-h-f",
+   "titre": "Stage - Trésorerie et Investissements H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-tresorerie-et-investissements-h-f",
    "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Modalités : • Stage de 4 - 6 mois à partir de janvier 2027 • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif • Titre de transport rembo"
+    "Modalités : • Stage de 6 mois à partir de Janvier 2027 • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif • Titre de transport rembo"
    ],
    "publie": ""
   },
@@ -300,27 +326,38 @@
   },
   {
    "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis Wealth Management",
+   "titre": "Stage - 6 mois - Assistant Banquier Privé F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-banquier-prive-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
    "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage - Trésorerie et Investissements H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-tresorerie-et-investissements-h-f",
+   "titre": "Stage - Data Analyste H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-data-analyste-h-f",
    "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Modalités : • Stage de 6 mois à partir de Janvier 2027 • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif • Titre de transport rembo"
+    "Modalités : Stage de 6 mois à partir de janvier 2027 Un éventail d’avantages s’offre à vous : Titre restaurant CSE attractif Titre de transport remboursé à 5"
    ],
    "publie": ""
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE Assurances IARD",
-   "titre": "Stage - 6 mois - Data Scientist F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-data-scientist-f-h-2",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Stage - Département Comptabilité Bancaire et Financière H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-departement-comptabilite-bancaire-et-financiere-h-f",
    "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Poste et missions Rejoignez BPCE pour un Stage - Data Scientist (H/F) pour une durée de 6 mois à partir de Mars 2027! Les missions c’est important, l’équipe et l’environnement aussi … ! Vous intégrez l’équipe Data Innovat"
+    "Modalités : • Stage de 4 - 6 mois à partir de janvier 2027 • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif • Titre de transport rembo"
    ],
    "publie": ""
   },
@@ -339,19 +376,6 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage - Chef de projet H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-chef-de-projet-h-f",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Modalités : Stage de 6 mois à partir de janvier 2027 Un éventail d’avantages s’offre à vous : Titre restaurant CSE attractif Titre de transport remboursé à 5"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
    "entreprise": "BPCE Car Lease",
    "titre": "Stage - 6 mois - Assistant Agent de prêt (F/H) - Charenton",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-agent-de-pret-f-h-charenton",
@@ -361,6 +385,17 @@
    "mentions_date": [
     "oste et missions Rejoignez BPCE Lease en tant qu' Assistant Agent de prêt pour un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Concrètement votre quotidien ? En"
    ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "BRED Banque Populaire",
+   "titre": "STAGE - Assistant trader fixed income F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-assistant-trader-fixed-income-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [],
    "publie": ""
   },
   {
@@ -389,14 +424,28 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Transport & Environment Industry Group F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-transport-environment-industry-group-f-h",
-   "lieu": "Paris",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "STAGE - ASSISTANT BANQUIER PRIVÉ - 92 - H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-assistant-banquier-prive-92-h-f",
+   "lieu": "Boulogne",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "rage de la Banque de Grande Clientèle, qui recherche quatres Analystes Financiers pour des stages de 6 mois , à pourvoir : en mars 2027, en juillet 2027 et en septembre 2027"
+    "Période souhaitée : à partir de Janvier 2027 pour une durée de 6 mois",
+    "Modalités : • Stage de 6 mois à partir de Janvier 2027 • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Stage - Assistant banquier privé H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-assistant-banquier-prive-h-f",
+   "lieu": "NOGENT-SUR-MARNE",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Modalités : • Stage de 6 mois à partir de janvier 2027 • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif • Titre de transport rembo"
    ],
    "publie": ""
   },
@@ -416,13 +465,15 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "BRED Banque Populaire",
-   "titre": "STAGE - Assistant trader fixed income F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-assistant-trader-fixed-income-f-h",
-   "lieu": "Paris",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Stage - Chargé d’Affaires entrepreneurs H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-charge-daffaires-entrepreneurs-h-f-2",
+   "lieu": "Boulogne Billancourt",
    "contrat": "Stage",
    "debut": "",
-   "mentions_date": [],
+   "mentions_date": [
+    "Modalités : • Stage de 6 mois à partir de janvier 2027 • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif • Titre de transport rembo"
+   ],
    "publie": ""
   },
   {
@@ -440,14 +491,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage - Data Analyste H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-data-analyste-h-f",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Transport & Environment Industry Group F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-transport-environment-industry-group-f-h",
    "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Modalités : Stage de 6 mois à partir de janvier 2027 Un éventail d’avantages s’offre à vous : Titre restaurant CSE attractif Titre de transport remboursé à 5"
+    "rage de la Banque de Grande Clientèle, qui recherche quatres Analystes Financiers pour des stages de 6 mois , à pourvoir : en mars 2027, en juillet 2027 et en septembre 2027"
    ],
    "publie": ""
   },
@@ -466,19 +517,6 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Business Manager - F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-business-manager-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "partement Advisory & Coverage, qui recherche un Business Manager pour un stage de durée de 6 mois à partir de janvier 2027"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
    "entreprise": "Caisse d'Epargne Ile de France",
    "titre": "Stage - Chargé de taux et placement H/F",
    "url": "https://recrutement.bpce.fr/job/stage-charge-de-taux-et-placement-h-f",
@@ -487,6 +525,19 @@
    "debut": "",
    "mentions_date": [
     "Modalités : Stage de 6 mois à partir de janvier/mars 2027 Un éventail d’avantages s’offre à vous : Titre restaurant CSE attractif Titre de transport remboursé à 5"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Sustainable Finance Data Expert F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-sustainable-finance-data-expert-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Vous rejoignez notre équipe, qui recherche un Expert en Données de Finance Durable pour un stage de 6 mois , à pourvoir en juillet 2027"
    ],
    "publie": ""
   },
@@ -513,19 +564,6 @@
    "debut": "",
    "mentions_date": [
     "gnez BPCE Lease en tant que Chargé d'affaires renégociations commerciales pour un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Sustainable Finance Data Expert F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-sustainable-finance-data-expert-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Vous rejoignez notre équipe, qui recherche un Expert en Données de Finance Durable pour un stage de 6 mois , à pourvoir en juillet 2027"
    ],
    "publie": ""
   },
@@ -577,6 +615,19 @@
   },
   {
    "source": "Site carrières (BPCE)",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Elève avocat - stage dans le cadre du PPI H/F",
+   "url": "https://recrutement.bpce.fr/job/eleve-avocat-stage-dans-le-cadre-du-ppi-h-f-2",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Modalités : • Stage de 6 mois à partir de janvier 2027 ( PPI de janvier à juin 2027 et/ou juin 2027 à décembre 2027) • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif • Titre de transport remb"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
    "entreprise": "BPCE Car Lease",
    "titre": "Stage - 6 mois - Attaché commercial LLD (F/H) - Charenton",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-attache-commercial-lld-f-h-charenton",
@@ -585,6 +636,19 @@
    "debut": "",
    "mentions_date": [
     "Poste et missions Rejoignez BPCE Lease en tant qu'Attaché commercial LLD pour un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Business Manager - F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-business-manager-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "partement Advisory & Coverage, qui recherche un Business Manager pour un stage de durée de 6 mois à partir de janvier 2027"
    ],
    "publie": ""
   },
@@ -603,14 +667,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage - Assistant banquier privé H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-assistant-banquier-prive-h-f",
-   "lieu": "NOGENT-SUR-MARNE",
+   "entreprise": "BPCE VIE",
+   "titre": "Stage - 6 mois - Equity Portfolio Manager Assistant F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-equity-portfolio-manager-assistant-f-h",
+   "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Modalités : • Stage de 6 mois à partir de janvier 2027 • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif • Titre de transport rembo"
+    "Poste et missions Rejoignez BPCE en tant qu'Assistant Equity Portflio Manager pour un stage à partir de février 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Vous intégrez le D épartement des"
    ],
    "publie": ""
   },
@@ -629,27 +693,25 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE Car Lease",
-   "titre": "Stage - 6 mois - Consultant Organisation et Efficacité Opérationnelle (F/H) - Charenton",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-consultant-organisation-et-efficacite-operationnelle-f-h-charenton",
-   "lieu": "Charenton-le-Pont",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Stage - Chargé de Logistique H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-charge-de-logistique-h-f",
+   "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
-   "mentions_date": [
-    "E Lease en tant que Consultant Organisation et Efficacité Opérationnelle p our un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
-   ],
+   "mentions_date": [],
    "publie": ""
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage - Chargé d’Affaires entrepreneurs H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-charge-daffaires-entrepreneurs-h-f-2",
-   "lieu": "Boulogne Billancourt",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Chargé de conformité aux sanctions internationales F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-charge-de-conformite-aux-sanctions-internationales-f-h",
+   "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Modalités : • Stage de 6 mois à partir de janvier 2027 • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif • Titre de transport rembo"
+    "ions, qui recherche un chargé de conformité aux sanctions internationales pour un stage de 6 mois à partir de janvier 2027"
    ],
    "publie": ""
   },
@@ -663,30 +725,6 @@
    "debut": "",
    "mentions_date": [
     "missions Rejoignez BPCE Lease en tant que C hargé de Recommercialisation pour un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Au sein de la Direction des Affair"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE Solutions Informatiques",
-   "titre": "STAGE - Business Analyst (F/H) - Paris",
-   "url": "https://recrutement.bpce.fr/job/stage-business-analyst-f-h-paris-2",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE VIE",
-   "titre": "Stage - 6 mois - Equity Portfolio Manager Assistant F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-equity-portfolio-manager-assistant-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Poste et missions Rejoignez BPCE en tant qu'Assistant Equity Portflio Manager pour un stage à partir de février 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Vous intégrez le D épartement des"
    ],
    "publie": ""
   },
@@ -706,21 +744,21 @@
   {
    "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Chargé de conformité aux sanctions internationales F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-charge-de-conformite-aux-sanctions-internationales-f-h",
+   "titre": "Stage - 6 mois - Juriste droit des affaires ou financier F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-juriste-droit-des-affaires-ou-financier-f-h",
    "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "ions, qui recherche un chargé de conformité aux sanctions internationales pour un stage de 6 mois à partir de janvier 2027"
+    "Vous rejoignez l’équipe Debt-Solutions qui recherche un juriste apprenti pour un stage de 6 mois à partir de janvier 2027"
    ],
    "publie": ""
   },
   {
    "source": "Site carrières (BPCE)",
    "entreprise": "BPCE Solutions Informatiques",
-   "titre": "STAGE – Data Modeler (F/H) - PARIS",
-   "url": "https://recrutement.bpce.fr/job/stage-data-modeler-f-h-paris",
+   "titre": "STAGE - Business Analyst (F/H) - Paris",
+   "url": "https://recrutement.bpce.fr/job/stage-business-analyst-f-h-paris-2",
    "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
@@ -730,12 +768,14 @@
   {
    "source": "Site carrières (BPCE)",
    "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage - Chargé de Logistique H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-charge-de-logistique-h-f",
+   "titre": "Stage - Chargé de marketing et d'animation marché des professionnels H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-charge-de-marketing-et-danimation-marche-des-professionnels-h-f",
    "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
-   "mentions_date": [],
+   "mentions_date": [
+    "Modalités : Stage de 6 mois à partir de janvier 2027 Un éventail d’avantages s’offre à vous : Titre restaurant CSE attractif Titre de transport remboursé à 5"
+   ],
    "publie": ""
   },
   {
@@ -753,28 +793,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Juriste droit des affaires ou financier F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-juriste-droit-des-affaires-ou-financier-f-h",
-   "lieu": "Paris",
+   "entreprise": "BPCE Car Lease",
+   "titre": "Stage - 6 mois - Consultant Organisation et Efficacité Opérationnelle (F/H) - Charenton",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-consultant-organisation-et-efficacite-operationnelle-f-h-charenton",
+   "lieu": "Charenton-le-Pont",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Vous rejoignez l’équipe Debt-Solutions qui recherche un juriste apprenti pour un stage de 6 mois à partir de janvier 2027"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "STAGE - ASSISTANT BANQUIER PRIVÉ - 92 - H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-assistant-banquier-prive-92-h-f",
-   "lieu": "Boulogne",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Période souhaitée : à partir de Janvier 2027 pour une durée de 6 mois",
-    "Modalités : • Stage de 6 mois à partir de Janvier 2027 • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif"
+    "E Lease en tant que Consultant Organisation et Efficacité Opérationnelle p our un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
    ],
    "publie": ""
   },
@@ -789,6 +815,80 @@
    "mentions_date": [
     "ejoignez notre équipe Coverage FIG, qui recherche un Analyste Financier , pour un stage de 6 mois à partir de janvier 2027"
    ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Assistant Analyste Covered Bonds F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-analyste-covered-bonds-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "rejoignez notre équipe qui recherche un Assistant Analyste Covered Bons, pour un stage de 6 mois à partir de Janvier 2027"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "BPCE Lease",
+   "titre": "Stage - 6 mois - Juriste Energies Renouvelables et Secteur Public (F/H) - Charenton",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-juriste-energies-renouvelables-et-secteur-public-f-h-charenton",
+   "lieu": "Charenton-le-Pont",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "z BPCE Lease en tant que Juriste Energies Renouvelables et Secteur Public pour un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "BPCE Solutions Informatiques",
+   "titre": "STAGE – Data Modeler (F/H) - PARIS",
+   "url": "https://recrutement.bpce.fr/job/stage-data-modeler-f-h-paris",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Market Operations - Triparty & Liquidity Management - F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-market-operations-triparty-liquidity-management-f-h",
+   "lieu": "Charenton le pont",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Gestionnaire des Opérations de Marché - Triparty & Liquidity Management pour un stage de 6 mois, à partir de janvier 2027 En collaboration avec votre tuteur, vos missions principales seront : Saisir les opérations sur la dette"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Stage - Assistant Juridique Contentieux et Pénal",
+   "url": "https://recrutement.bpce.fr/job/stage-assistant-juridique-contentieux-et-penal",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "n et résolution amiable des litiges Informations complémentaires sur le poste Modalités : - Stage de 6 mois ( Janvier à Juin 2027) • Un éventail d’avantages s’offre à vous… Pour les découvrir, il vous suffit de postuler ! Saupo"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "BPCE VIE",
+   "titre": "Stage - 6 mois - Assistant Investissements Fixed Income F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-investissements-fixed-income-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [],
    "publie": ""
   },
   {
@@ -820,19 +920,6 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE Lease",
-   "titre": "Stage - 6 mois - Juriste Energies Renouvelables et Secteur Public (F/H) - Charenton",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-juriste-energies-renouvelables-et-secteur-public-f-h-charenton",
-   "lieu": "Charenton-le-Pont",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "z BPCE Lease en tant que Juriste Energies Renouvelables et Secteur Public pour un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
    "titre": "Stage - 6 mois - Assistant Trader Tresorerie LT F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-trader-tresorerie-lt-f-h",
@@ -842,30 +929,6 @@
    "mentions_date": [
     "quipe Trésorerie long terme de Natixis, qui recherche un Assistant Trader pour un stage de 6 mois à partir de décembre 2026"
    ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Assistant Analyste Covered Bonds F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-analyste-covered-bonds-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "rejoignez notre équipe qui recherche un Assistant Analyste Covered Bons, pour un stage de 6 mois à partir de Janvier 2027"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE VIE",
-   "titre": "Stage - 6 mois - Assistant Investissements Fixed Income F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-investissements-fixed-income-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [],
    "publie": ""
   },
   {
@@ -896,30 +959,6 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE Solutions Informatiques",
-   "titre": "STAGE - Développeur Fullstack (F/H) – PARIS",
-   "url": "https://recrutement.bpce.fr/job/stage-developpeur-fullstack-f-h-paris",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Market Operations - Triparty & Liquidity Management - F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-market-operations-triparty-liquidity-management-f-h",
-   "lieu": "Charenton le pont",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Gestionnaire des Opérations de Marché - Triparty & Liquidity Management pour un stage de 6 mois, à partir de janvier 2027 En collaboration avec votre tuteur, vos missions principales seront : Saisir les opérations sur la dette"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
    "entreprise": "BPCE VIE",
    "titre": "Stage - 6 mois - Private Equity F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-private-equity-f-h",
@@ -932,13 +971,26 @@
   {
    "source": "Site carrières (BPCE)",
    "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage - Chargé de marketing et d'animation marché des professionnels H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-charge-de-marketing-et-danimation-marche-des-professionnels-h-f",
+   "titre": "Stage – Assistant(e) Qualité et Amélioration Continue H/F - Paris 75",
+   "url": "https://recrutement.bpce.fr/job/stage-assistante-qualite-et-amelioration-continue-h-f-paris-75",
    "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Modalités : Stage de 6 mois à partir de janvier 2027 Un éventail d’avantages s’offre à vous : Titre restaurant CSE attractif Titre de transport remboursé à 5"
+    "Modalités : Stage de 6 mois dès que possible Un éventail d’avantages s’offre à vous : -Titre restaurant CSE attractif -Titre de transport remboursé à 50%"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Data Analyst - Valuation Risk Equity Correlation F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-data-analyst-valuation-risk-equity-correlation-f-h",
+   "lieu": "Charenton le pont",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "ez notre équipe de Valuation Risk Equity , qui recherche un Data Analyste pour un stage de 6 mois à partir de Janvier 2027"
    ],
    "publie": ""
   },
@@ -958,15 +1010,13 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Data Analyst - Valuation Risk Equity Correlation F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-data-analyst-valuation-risk-equity-correlation-f-h",
-   "lieu": "Charenton le pont",
+   "entreprise": "BPCE Solutions Informatiques",
+   "titre": "STAGE - Développeur Fullstack (F/H) – PARIS",
+   "url": "https://recrutement.bpce.fr/job/stage-developpeur-fullstack-f-h-paris",
+   "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
-   "mentions_date": [
-    "ez notre équipe de Valuation Risk Equity , qui recherche un Data Analyste pour un stage de 6 mois à partir de Janvier 2027"
-   ],
+   "mentions_date": [],
    "publie": ""
   },
   {
@@ -998,32 +1048,6 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Elève avocat - stage dans le cadre du PPI H/F",
-   "url": "https://recrutement.bpce.fr/job/eleve-avocat-stage-dans-le-cadre-du-ppi-h-f-2",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Modalités : • Stage de 6 mois à partir de janvier 2027 ( PPI de janvier à juin 2027 et/ou juin 2027 à décembre 2027) • Un éventail d’avantages s’offre à vous : • Titre restaurant • CSE attractif • Titre de transport remb"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage – Assistant(e) Qualité et Amélioration Continue H/F - Paris 75",
-   "url": "https://recrutement.bpce.fr/job/stage-assistante-qualite-et-amelioration-continue-h-f-paris-75",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Modalités : Stage de 6 mois dès que possible Un éventail d’avantages s’offre à vous : -Titre restaurant CSE attractif -Titre de transport remboursé à 50%"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
    "titre": "Stage - 6 mois - Product Owner LCNC Data F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-product-owner-lcnc-data-f-h",
@@ -1032,6 +1056,19 @@
    "debut": "",
    "mentions_date": [
     "tecture / Tooling, qui recherche un Product Owner Low-Code / No-Code Data pour un stage de 6 mois à partir de janvier 2027"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Stage - Assistant Chargé d'affaires - Hauts-de-Seine 92 H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-assistant-charge-daffaires-hauts-de-seine-92-h-f",
+   "lieu": "PUTEAUX",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Modalités : Stage de 6 mois à partir de mars 2027 Un éventail d’avantages s’offre à vous : -Titre restaurant -CSE attractif -Titre de transport remboursé"
    ],
    "publie": ""
   },
@@ -1050,14 +1087,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage - Assistant Chargé d'affaires - Hauts-de-Seine 92 H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-assistant-charge-daffaires-hauts-de-seine-92-h-f",
-   "lieu": "PUTEAUX",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Quants XVA Développement d'outils quantitatifs et d'assistants intelligents F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-quants-xva-developpement-doutils-quantitatifs-et-dassistants-intelligents-f-h",
+   "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Modalités : Stage de 6 mois à partir de mars 2027 Un éventail d’avantages s’offre à vous : -Titre restaurant -CSE attractif -Titre de transport remboursé"
+    "e en Développement d'outils quantitatifs et d'assistants intelligents , pour un stage de 6 mois , à partir d' avril 2027"
    ],
    "publie": ""
   },
@@ -1089,14 +1126,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Ingénieur Automatisation Applicative F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-ingenieur-automatisation-applicative-f-h",
-   "lieu": "Paris",
+   "entreprise": "BPCE Car Lease",
+   "titre": "Stage - 6 mois - Attaché commercial grands comptes (F/H) - Charenton",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-attache-commercial-grands-comptes-f-h-charenton",
+   "lieu": "Charenton-le-Pont",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "TRADE FI FX CREDIT qui recherche un Ingénieur Automatisation Applicative pour un stage de 6 mois à partir de février 2027"
+    "issions Rejoignez BPCE Lease en tant qu'Attaché commercial grands comptes pour un stage de 6 mois à partir de février 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
    ],
    "publie": ""
   },
@@ -1115,14 +1152,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE Car Lease",
-   "titre": "Stage - 6 mois - Attaché commercial grands comptes (F/H) - Charenton",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-attache-commercial-grands-comptes-f-h-charenton",
-   "lieu": "Charenton-le-Pont",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Ingénieur Automatisation Applicative F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-ingenieur-automatisation-applicative-f-h",
+   "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "issions Rejoignez BPCE Lease en tant qu'Attaché commercial grands comptes pour un stage de 6 mois à partir de février 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
+    "TRADE FI FX CREDIT qui recherche un Ingénieur Automatisation Applicative pour un stage de 6 mois à partir de février 2027"
    ],
    "publie": ""
   },
@@ -1135,19 +1172,6 @@
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Quants XVA Développement d'outils quantitatifs et d'assistants intelligents F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-quants-xva-developpement-doutils-quantitatifs-et-dassistants-intelligents-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "e en Développement d'outils quantitatifs et d'assistants intelligents , pour un stage de 6 mois , à partir d' avril 2027"
-   ],
    "publie": ""
   },
   {
@@ -1204,6 +1228,19 @@
   },
   {
    "source": "Site carrières (BPCE)",
+   "entreprise": "BPCE Car Lease",
+   "titre": "Stage - 6 mois - Chargé d'Études IA Générative & Analyse Financière (F/H) - Charenton",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-charge-detudes-ia-generative-analyse-financiere-f-h-charenton",
+   "lieu": "Charenton-le-Pont",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "CE Lease en tant que C hargé d'Études IA Générative & Analyse Financière p our un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
    "titre": "Stage - 6 mois - Analyste Risque de Crédit - Infra - Aviation F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-analyste-risque-de-credit-infra-aviation-f-h",
@@ -1242,14 +1279,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE Car Lease",
-   "titre": "Stage - 6 mois - Chargé d'Études IA Générative & Analyse Financière (F/H) - Charenton",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-charge-detudes-ia-generative-analyse-financiere-f-h-charenton",
-   "lieu": "Charenton-le-Pont",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Stage - Assistant Chargé d'Affaires Grands Comptes Distribution et Logistique Paris 13 H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-assistant-charge-daffaires-grands-comptes-distribution-et-logistique-paris-13-h-f",
+   "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "CE Lease en tant que C hargé d'Études IA Générative & Analyse Financière p our un stage de 6 mois à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Nous vous offrons l'opportunité de"
+    "Modalités : Stage de fin d'étude de 6 mois à partir de mars 2027 Un éventail d’avantages s’offre à vous : Titre restaurant CSE attractif Titre de transport remboursé à 5"
    ],
    "publie": ""
   },
@@ -1270,14 +1307,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage - Assistant Chargé d'Affaires Grands Comptes Distribution et Logistique Paris 13 H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-assistant-charge-daffaires-grands-comptes-distribution-et-logistique-paris-13-h-f",
-   "lieu": "Paris",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Market operations - Triparty & Stock Loan Management - F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-market-operations-triparty-stock-loan-management-f-h",
+   "lieu": "Charenton le pont",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Modalités : Stage de fin d'étude de 6 mois à partir de mars 2027 Un éventail d’avantages s’offre à vous : Titre restaurant CSE attractif Titre de transport remboursé à 5"
+    "e un Gestionnaire Opérations marchés - Triparty & Stock Loan Management pour un stage de 6 mois , à partir de janvier 2027"
    ],
    "publie": ""
   },
@@ -1310,14 +1347,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Market operations - Triparty & Stock Loan Management - F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-market-operations-triparty-stock-loan-management-f-h",
-   "lieu": "Charenton le pont",
+   "entreprise": "BPCE VIE",
+   "titre": "Stage – 6 mois – Stratégie F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-strategie-f-h",
+   "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "e un Gestionnaire Opérations marchés - Triparty & Stock Loan Management pour un stage de 6 mois , à partir de janvier 2027"
+    "e professionnelle ? C'est par ici ! ​ Poste et missions Rejoignez BPCE pour un stage en Stratégie à partir de février 2027 ! Vous intégrez la Direction de la Stratégie de BPCE Vie, filiale de BPCE Assurances, certifiée Great Pl"
    ],
    "publie": ""
   },
@@ -1336,19 +1373,6 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE VIE",
-   "titre": "Stage – 6 mois – Stratégie F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-strategie-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "e professionnelle ? C'est par ici ! ​ Poste et missions Rejoignez BPCE pour un stage en Stratégie à partir de février 2027 ! Vous intégrez la Direction de la Stratégie de BPCE Vie, filiale de BPCE Assurances, certifiée Great Pl"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
    "titre": "Stage - 6 mois - Développeur Python Finance Valuation Group F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-developpeur-python-finance-valuation-group-f-h",
@@ -1357,19 +1381,6 @@
    "debut": "",
    "mentions_date": [
     "estigations, qui recherche un Développeur Python Finance Valuation Group, pour un stage de 6 mois à partir de mars/avril 2027"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "BRED Banque Populaire",
-   "titre": "STAGE - Assistant RH - Pôle Relations Ecoles F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-assistant-rh-pole-relations-ecoles-f-h-2",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Durée : 6 mois Début du stage : Janvier 2027 / Mars 2027 Localisation : Paris 12 ème , Gare de Lyon Vous êtes la candidate ou le candidat idéal(e) si : Vous prép"
    ],
    "publie": ""
   },
@@ -1388,14 +1399,14 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "Banque BCP",
-   "titre": "Stage - Data Analyst Risques (H/F)",
-   "url": "https://recrutement.bpce.fr/job/stage-data-analyst-risques-h-f",
+   "entreprise": "BRED Banque Populaire",
+   "titre": "STAGE - Assistant RH - Pôle Relations Ecoles F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-assistant-rh-pole-relations-ecoles-f-h-2",
    "lieu": "Paris",
    "contrat": "Stage",
    "debut": "",
    "mentions_date": [
-    "Informations complémentaires sur le poste Durée du stage : Offre à pourvoir à compter du mois de janvier 2027 pour une durée de 6 mois (selon le cycle)"
+    "Durée : 6 mois Début du stage : Janvier 2027 / Mars 2027 Localisation : Paris 12 ème , Gare de Lyon Vous êtes la candidate ou le candidat idéal(e) si : Vous prép"
    ],
    "publie": ""
   },
@@ -1479,6 +1490,19 @@
   },
   {
    "source": "Site carrières (BPCE)",
+   "entreprise": "Caisse d'Epargne Ile de France",
+   "titre": "Stage – Assistant Chargé d’Affaires Entreprises – Industrie, BTP & Immobilier - Paris 75 H/F",
+   "url": "https://recrutement.bpce.fr/job/stage-assistant-charge-daffaires-entreprises-industrie-btp-immobilier-paris-75-h-f",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "Modalités : Stage de 6 mois à partir de janvier/mars 2027 Un éventail d’avantages s’offre à vous : -Titre restaurant -CSE attractif -Titre de transport remboursé"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
    "entreprise": "BPCE VIE",
    "titre": "Stage - 6 mois - Chargé de pilotage et reporting F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-charge-de-pilotage-et-reporting-f-h",
@@ -1487,19 +1511,6 @@
    "debut": "",
    "mentions_date": [
     "Poste et missions Rejoignez BPCE en tant que Chargé de pilotage et reporting pour un stage à partir de janvier 2027 ! Les missions c’est important, l’équipe et l’environnement aussi … ! Vous intégrez la Direction des inv"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Data Analyst/ Project Officer - F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-data-analyst-project-officer-f-h",
-   "lieu": "Charenton le pont",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "n du département Global Markets Operations, qui recherche un Data Analyst pour un stage de 6 mois à partir de novembre 2026"
    ],
    "publie": ""
   },
@@ -1519,6 +1530,19 @@
   },
   {
    "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Data Analyst/ Project Officer - F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-data-analyst-project-officer-f-h",
+   "lieu": "Charenton le pont",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "n du département Global Markets Operations, qui recherche un Data Analyst pour un stage de 6 mois à partir de novembre 2026"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
    "entreprise": "BPCE VIE",
    "titre": "Stage - 6 mois - Chargé d'études ALM F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-charge-detudes-alm-f-h",
@@ -1527,19 +1551,6 @@
    "debut": "",
    "mentions_date": [
     "Poste et missions Rejoignez BPCE en tant que Chargé d'études ALM pour un stage à partir de février 2027! Au sein de la direction des Risques, et du département Mesure du Risque et Gestion Actif Passif, vous r"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Caisse d'Epargne Ile de France",
-   "titre": "Stage – Assistant Chargé d’Affaires Entreprises – Industrie, BTP & Immobilier - Paris 75 H/F",
-   "url": "https://recrutement.bpce.fr/job/stage-assistant-charge-daffaires-entreprises-industrie-btp-immobilier-paris-75-h-f",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "Modalités : Stage de 6 mois à partir de janvier/mars 2027 Un éventail d’avantages s’offre à vous : -Titre restaurant -CSE attractif -Titre de transport remboursé"
    ],
    "publie": ""
   },
@@ -1572,17 +1583,6 @@
   },
   {
    "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE Infogérance et Technologies",
-   "titre": "Stage - 6 mois - Chef de projet Evènementiel et Audiovisuel F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-chef-de-projet-evenementiel-et-audiovisuel-f-h",
-   "lieu": "Charenton-le-Pont",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
    "titre": "Stage - 6 mois - Développeur Quantitatif - F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-developpeur-quantitatif-f-h",
@@ -1592,6 +1592,17 @@
    "mentions_date": [
     "du département Global Markets, qui recherche un Développeur Quantitatif , pour un stage de 6 mois à partir de novembre 2026"
    ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "BPCE Infogérance et Technologies",
+   "titre": "Stage - 6 mois - Chef de projet Evènementiel et Audiovisuel F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-chef-de-projet-evenementiel-et-audiovisuel-f-h",
+   "lieu": "Charenton-le-Pont",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [],
    "publie": ""
   },
   {
@@ -1646,6 +1657,17 @@
   },
   {
    "source": "Site carrières (BPCE)",
+   "entreprise": "BPCE Infogérance et Technologies",
+   "titre": "Stage - 3 à 6 mois - Ingénieur Sécurité et IA Agentique F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-3-a-6-mois-ingenieur-securite-et-ia-agentique-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
    "titre": "Stage - 6 mois - Juriste Contentieux F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-juriste-contentieux-f-h",
@@ -1655,30 +1677,6 @@
    "mentions_date": [
     "la Direction juridique de Natixis, qui recherche un Juriste Contentieux , pour un stage de 6 mois à partir de juillet 2027"
    ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Développeur Java Microservice F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-developpeur-java-microservice-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "développement de plateformes, qui recherche un développeur Java/Python , pour un stage de 6 mois à partir d' avril 2027"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE Infogérance et Technologies",
-   "titre": "Stage - 3 à 6 mois - Ingénieur Sécurité et IA Agentique F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-3-a-6-mois-ingenieur-securite-et-ia-agentique-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [],
    "publie": ""
   },
   {
@@ -1710,19 +1708,6 @@
   {
    "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - Assistant Sales Commodities Markets F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-sales-commodities-markets-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "pour un stage de 6 mois à partir de décembre 2026"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
    "titre": "Stage - 6 mois - Développeur Big Data/Fullstack F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-developpeur-big-data-fullstack-f-h",
    "lieu": "Paris",
@@ -1731,17 +1716,6 @@
    "mentions_date": [
     "al Markets & Risks de Natixis CIB, qui recherche un développeur fullstack pour un stage de 6 mois à partir de janvier 2027"
    ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "BPCE Solutions Informatiques",
-   "titre": "Stage - Business Analyst (F/H) - Paris",
-   "url": "https://recrutement.bpce.fr/job/stage-business-analyst-f-h-paris",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [],
    "publie": ""
   },
   {
@@ -1755,6 +1729,30 @@
    "mentions_date": [
     "ssions Vous rejoignez l’équipe Amethyst qui recherche un business analyst pour un stage de 6 mois à partir de février 2027"
    ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - Assistant Sales Commodities Markets F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-assistant-sales-commodities-markets-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "pour un stage de 6 mois à partir de décembre 2026"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "BPCE Solutions Informatiques",
+   "titre": "Stage - Business Analyst (F/H) - Paris",
+   "url": "https://recrutement.bpce.fr/job/stage-business-analyst-f-h-paris",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [],
    "publie": ""
   },
   {
@@ -1836,19 +1834,6 @@
   {
    "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
-   "titre": "Stage - 6 mois - IT Quant Equity Pricing F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-it-quant-equity-pricing-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "département Pricing & Analytics qui recherche un IT Quant Equity Pricing pour un stage de 6 mois à partir de novembre 2026"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis CIB France",
    "titre": "Stage - 6 mois - Développeur d'outils économétriques (Python/IA agentique) F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-developpeur-doutils-econometriques-python-ia-agentique-f-h",
    "lieu": "Paris",
@@ -1862,6 +1847,19 @@
   {
    "source": "Site carrières (BPCE)",
    "entreprise": "Natixis CIB France",
+   "titre": "Stage - 6 mois - IT Quant Equity Pricing F/H",
+   "url": "https://recrutement.bpce.fr/job/stage-6-mois-it-quant-equity-pricing-f-h",
+   "lieu": "Paris",
+   "contrat": "Stage",
+   "debut": "",
+   "mentions_date": [
+    "département Pricing & Analytics qui recherche un IT Quant Equity Pricing pour un stage de 6 mois à partir de novembre 2026"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Site carrières (BPCE)",
+   "entreprise": "Natixis CIB France",
    "titre": "Stage - 6 mois - Quantitative Algo Trading – Rates F/H",
    "url": "https://recrutement.bpce.fr/job/stage-6-mois-quantitative-algo-trading-rates-f-h",
    "lieu": "Paris",
@@ -1869,19 +1867,6 @@
    "debut": "",
    "mentions_date": [
     "gnez notre équipe qui recherche un Stagiaire Quantitative Algo Trading , pour une durée de 6 mois à partir de janvier 2027"
-   ],
-   "publie": ""
-  },
-  {
-   "source": "Site carrières (BPCE)",
-   "entreprise": "Natixis Wealth Management",
-   "titre": "Stage - 6 mois - Business Development F/H",
-   "url": "https://recrutement.bpce.fr/job/stage-6-mois-business-development-f-h",
-   "lieu": "Paris",
-   "contrat": "Stage",
-   "debut": "",
-   "mentions_date": [
-    "nez l’équipe Business Development, qui recherche un Business Developper , pour un stage de 6 mois à partir de janvier 2027"
    ],
    "publie": ""
   },
