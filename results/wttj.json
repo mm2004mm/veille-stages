@@ -1,6 +1,6 @@
 {
- "collecte": "2026-11-23T16:35:19+00:00",
- "nb": 68,
+ "collecte": "2026-11-25T16:40:59+00:00",
+ "nb": 67,
  "note": "",
  "offres": [
   {
@@ -85,6 +85,19 @@
   },
   {
    "source": "Welcome to the Jungle",
+   "entreprise": "avolta-partners",
+   "titre": "Stage Analyst M&A - Juillet 2027",
+   "url": "https://www.welcometothejungle.com/fr/companies/avolta-partners/jobs/stage-analyst-m-a-juillet-2027_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [
+    "Stage Analyst M&A - Juillet 2027"
+   ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
    "entreprise": "sefico-nexia",
    "titre": "Stagiaire Auditeur IT F/H",
    "url": "https://www.welcometothejungle.com/fr/companies/nexia-sa/jobs/stagiaire-auditeur-it-f-h_paris",
@@ -116,17 +129,6 @@
    "mentions_date": [
     "Stagiaire - Expertise comptable LMNP - Janvier 2027 F/H"
    ],
-   "publie": ""
-  },
-  {
-   "source": "Welcome to the Jungle",
-   "entreprise": "sefico-nexia",
-   "titre": "Stagiaire Consultant Consolidation F/H",
-   "url": "https://www.welcometothejungle.com/fr/companies/nexia-sa/jobs/stagiaire-consultant-consolidation-f-h_paris_NS_1jG8qLL",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
    "publie": ""
   },
   {
@@ -169,36 +171,12 @@
   {
    "source": "Welcome to the Jungle",
    "entreprise": "raise",
-   "titre": "VC Analyst Intern - Raise Ventures",
-   "url": "https://www.welcometothejungle.com/fr/companies/raise/jobs/vc-analyst-intern-raise-ventures_paris_RAISE_VRLGXQx",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Welcome to the Jungle",
-   "entreprise": "raise",
    "titre": "Stage Analyste - Private Equity",
    "url": "https://www.welcometothejungle.com/fr/companies/raise/jobs/analyste_paris",
    "lieu": "",
    "contrat": "",
    "debut": "",
    "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Welcome to the Jungle",
-   "entreprise": "tikehau-capital",
-   "titre": "Internship - Fund Operations (H/F) - Luxembourg - November 2026",
-   "url": "https://www.welcometothejungle.com/fr/companies/tikehau-capital/jobs/internship-fund-operations-h-f-luxembourg-november-2026_luxembourg",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [
-    "Internship - Fund Operations (H/F) - Luxembourg - November 2026"
-   ],
    "publie": ""
   },
   {
@@ -342,6 +320,50 @@
    "mentions_date": [
     "Affaires Publiques et Gouvernementales Stage - Mars 2027 \\| Paris (H/F)"
    ],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Commodity Structured Finance Analyst F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-commodity-structured-finance-analyst-f-h_paris_NATIX_AK41xVL",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Analyste de l'impacte / ESG F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-analyste-de-l-impacte-esg-f-h_paris",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage - 6 mois - Data Analyst F/H - NIM",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-data-analyst-f-h-nim_paris_NATIX_JzzYxPg",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
+   "publie": ""
+  },
+  {
+   "source": "Welcome to the Jungle",
+   "entreprise": "natixis",
+   "titre": "Stage-6mois-Gestionnaire Settlement Secondaire & Primaire-F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6mois-gestionnaire-settlement-secondaire-primaire-f-h_paris-13e-arrondissement",
+   "lieu": "",
+   "contrat": "",
+   "debut": "",
+   "mentions_date": [],
    "publie": ""
   },
   {
@@ -555,9 +577,9 @@
   },
   {
    "source": "Welcome to the Jungle",
-   "entreprise": "natixis",
-   "titre": "Stage - 6 mois - Product Owner LCNC Data F/H",
-   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-product-owner-lcnc-data-f-h_paris",
+   "entreprise": "la-banque-postale",
+   "titre": "STAGE - Fiscaliste F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-fiscaliste-f-h_paris_LBP_1VoDRbd",
    "lieu": "",
    "contrat": "",
    "debut": "",
@@ -566,9 +588,9 @@
   },
   {
    "source": "Welcome to the Jungle",
-   "entreprise": "natixis",
-   "titre": "Stage - 6 mois - Analyste Risque de Crédid Infra Aviation F/H",
-   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-analyste-risque-de-credid-infra-aviation-f-h_paris",
+   "entreprise": "la-banque-postale",
+   "titre": "Analyste comptable F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/analyste-comptable-f-h_paris",
    "lieu": "",
    "contrat": "",
    "debut": "",
@@ -577,9 +599,9 @@
   },
   {
    "source": "Welcome to the Jungle",
-   "entreprise": "natixis",
-   "titre": "Stage - 6 mois - Analyste Quantitatif - Stress Tests F/H",
-   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-analyste-quantitatif-stress-tests-f-h_paris",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Chargé d'étude risques opérationnels F/H",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-charge-d-etude-risques-operationnels-f-h_paris",
    "lieu": "",
    "contrat": "",
    "debut": "",
@@ -588,20 +610,9 @@
   },
   {
    "source": "Welcome to the Jungle",
-   "entreprise": "natixis",
-   "titre": "Stage - 6 mois - Structuration SECM - F/H",
-   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-structuration-secm-f-h_paris_NATIX_rb0RNRr",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Welcome to the Jungle",
-   "entreprise": "natixis",
-   "titre": "Stage - 6 mois - Assistant Analyste Covered Bonds F/H",
-   "url": "https://www.welcometothejungle.com/fr/companies/natixis/jobs/stage-6-mois-assistant-analyste-covered-bonds-f-h_paris_NATIX_Gd3MqqX",
+   "entreprise": "la-banque-postale",
+   "titre": "Stage - Assistant Vendeur H/F",
+   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-assistant-vendeur-h-f_paris",
    "lieu": "",
    "contrat": "",
    "debut": "",
@@ -622,7 +633,7 @@
   {
    "source": "Welcome to the Jungle",
    "entreprise": "la-banque-postale",
-   "titre": "Stage - Assistant Chargé d'Affaires H/F",
+   "titre": "Stage - Financement de Projets Energies Décarbonées (F/H)",
    "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-assistant-charge-d-affaires-h-f_paris_LBP_w0XOwgD",
    "lieu": "",
    "contrat": "",
@@ -767,28 +778,6 @@
    "entreprise": "la-banque-postale",
    "titre": "STAGE - Gérant ALM Tarification F/H",
    "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-gerant-alm-tarification-f-h_paris",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Welcome to the Jungle",
-   "entreprise": "la-banque-postale",
-   "titre": "Stage - Analyste Coverage Large Corporate F/H",
-   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-analyste-coverage-large-corporate-f-h_paris_LBP_GK22RMy",
-   "lieu": "",
-   "contrat": "",
-   "debut": "",
-   "mentions_date": [],
-   "publie": ""
-  },
-  {
-   "source": "Welcome to the Jungle",
-   "entreprise": "la-banque-postale",
-   "titre": "Stage - Pricing Analyst F/H",
-   "url": "https://www.welcometothejungle.com/fr/companies/la-banque-postale/jobs/stage-pricing-analyst-f-h_paris",
    "lieu": "",
    "contrat": "",
    "debut": "",
